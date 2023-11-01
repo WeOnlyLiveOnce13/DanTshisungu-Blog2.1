@@ -1,9 +1,9 @@
 baseURL: https://dantshisungu-website-2-1.netlify.app/
 theme: hugo-apero
 languageCode: en
-title: Hugo Apéro
-author: Alison Hill
-copyright: ''
+title: DanTshisungu-Website
+author: Dan A. Tshisungu
+copyright: 'Dan A.Tshisungu'
 googleAnalytics: ''
 disqusShortname: ''
 metaDataFormat: yaml
